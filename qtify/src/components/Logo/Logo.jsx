@@ -3,7 +3,7 @@ import LogoImage from "../../assets/logo.png";
 // import "./Logo.module.css"
 
 export default function Logo() {
-  return <img src={LogoImage} alt="logo" width={67} className="Logo-header"/>
+  return <img src={LogoImage} alt="logo" width={67} style={{ paddingLeft: '1px' }}/>
   // (<div className="Logo-header">
   //   <img  src={LogoImage} alt="logo" width={67} />
   //   </div>);
