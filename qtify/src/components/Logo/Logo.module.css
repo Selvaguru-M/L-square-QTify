@@ -6,6 +6,8 @@
     top: 20px;
     left: 32px;
     gap: 0px;
+    padding-left: 1px;
+    vertical-align: middle;
     /* opacity: 0px; */
 
 }
